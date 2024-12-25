@@ -1,1 +1,1 @@
-Blooging Website
+MERN Stack Recipe Sharing Platform
