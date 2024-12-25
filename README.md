@@ -1,1 +1,1 @@
-Full Stack Blogging Website
+MERN Stack Recipe Sharing Platform
